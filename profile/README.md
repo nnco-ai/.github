@@ -5,3 +5,5 @@
 </picture>
 
 Helping organizations put AI to work.
+
+More of our projects will be shared here over time. To get help from our team: [nnco.ai/contact](https://nnco.ai/contact/).
